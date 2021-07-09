@@ -1,0 +1,5 @@
+﻿15:37-----------Comienza Proceso--------------
+15:38-----------Actualizo Excel sin Inconvenientes.--------------
+15:39-----------Comienza Proceso de Correcion Tickets--------------
+15:41-----------Comienza busqueda para la fecha: 02/01/2021-----------------------
+15:41-----Comienza busqueda para la fecha: 02/01/2021  y nro Transferencia: 1578706 y nro de Camion: 47------
